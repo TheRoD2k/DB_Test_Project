@@ -1,0 +1,4 @@
+supplier_record_id;supplier_id;updated_on_dt;manager_id;supplier_nm;supplier_desc
+1;1;2019-01-01 00:00:00;8;SupplierA;Best supplier in Moscow
+2;1;2019-02-03 00:00:00;3;SupplierA;Best supplier in Moscow
+3;2;2019-01-01 00:00:00;8;SupplierB;Older games supplier

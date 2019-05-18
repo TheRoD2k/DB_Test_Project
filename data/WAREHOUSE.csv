@@ -1,0 +1,3 @@
+warehouse_id;warehouse_desc;rent_price_amt;functioning_flg
+1;Warehouse in Moscow;40000,00;1
+2;Warehouse in Saint-Petersburg;35000,00;1
