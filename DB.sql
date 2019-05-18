@@ -1,6 +1,6 @@
 --DROP TABLE IF EXISTS WAREHOUSE CASCADE ;
 CREATE TABLE IF NOT EXISTS WAREHOUSE(
-  warehouse_id         SERIAL PRIMARY KEY,
+  warehouse_id         INTEGER PRIMARY KEY,
   warehouse_desc       VARCHAR(255),
   rent_price_amt       DECIMAL(10,2) NOT NULL,
   functioning_flg      BOOLEAN NOT NULL
